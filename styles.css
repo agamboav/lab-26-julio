@@ -1,0 +1,14 @@
+main {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#koda-img {
+  height: auto;
+  max-width: 40%;
+}
+
+.second-img {
+  height: auto;
+  max-width: 35%;
+}
